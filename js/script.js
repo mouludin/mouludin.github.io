@@ -11,7 +11,6 @@ function setup(){
     for(let i = 0;i < 5;i++){
         circle.push(new Circle())
     }
-    noLoop()
 }
 console.log('asd')
 function draw(){
