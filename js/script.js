@@ -12,7 +12,6 @@ function setup(){
         circle.push(new Circle())
     }
 }
-console.log('asd')
 function draw(){
     background(255)
     for(let i = 0;i < circle.length;i++){
