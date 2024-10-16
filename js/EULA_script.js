@@ -18,7 +18,7 @@ const eulaText = {
             <p>Rajasa Digital berhak untuk mengubah syarat dan ketentuan dalam EULA ini kapan saja. Perubahan akan diberitahukan kepada Anda melalui aplikasi atau website resmi.</p>
         
             <h2>6. Hukum yang Berlaku</h2>
-            <p>EULA ini diatur oleh hukum Republik Indonesia. Setiap perselisihan yang muncul akan diselesaikan di pengadilan yang berwenang di Kota Malang, Jawa Timur, Indonesia.</p>
+            <p>EULA ini diatur oleh hukum Republik Indonesia. Setiap perselisihan yang muncul akan diselesaikan di pengadilan yang berwenang di Indonesia.</p>
         
             <h2>7. Persetujuan Anda</h2>
             <p>Dengan mengunduh atau menggunakan Game, Anda menyetujui syarat dan ketentuan dalam EULA ini. Jika Anda tidak setuju, Anda tidak boleh menggunakan Game.</p>
@@ -46,7 +46,7 @@ const eulaText = {
         <p>Rajasa Digital reserves the right to change the terms and conditions in this EULA at any time. Changes will be notified to you through the application or official website.</p>
 
         <h2>6. Governing Law</h2>
-        <p>This EULA is governed by the laws of the Republic of Indonesia. Any disputes arising will be resolved in the competent courts of Malang Regency, East Java.</p>
+        <p>This EULA is governed by the laws of the Republic of Indonesia. Any disputes arising will be resolved in the competent courts of Indonesia.</p>
 
         <h2>7. Your Acceptance</h2>
         <p>By downloading or using the Game, you agree to the terms and conditions of this EULA. If you do not agree, you may not use the Game.</p>
@@ -74,7 +74,7 @@ const eulaText = {
     <p>Rajasa Digital ขอสงวนสิทธิ์ในการเปลี่ยนแปลงข้อกำหนดและเงื่อนไขใน EULA นี้ได้ตลอดเวลา การเปลี่ยนแปลงจะได้รับการแจ้งให้คุณทราบผ่านทางแอปพลิเคชันหรือเว็บไซต์ทางการ</p>
 
     <h2>6. กฎหมายที่ใช้บังคับ</h2>
-    <p>EULA นี้อยู่ภายใต้กฎหมายของสาธารณรัฐอินโดนีเซีย ข้อพิพาทใดๆ ที่เกิดขึ้นจะต้องได้รับการแก้ไขในศาลที่มีอำนาจในเขตสิงห์อาสา จังหวัดมาลัง</p>
+    <p>นี่คือข้อตกลงสิทธิ์การใช้งานซอฟต์แวร์ (EULA) ที่อยู่ภายใต้กฎหมายของสาธารณรัฐอินโดนีเซีย หากมีข้อพิพาทใดๆ เกิดขึ้น จะต้องได้รับการแก้ไขในศาลที่มีอำนาจในประเทศอินโดนีเซีย</p>
 
     <h2>7. การยอมรับของคุณ</h2>
     <p>โดยการดาวน์โหลดหรือใช้เกม คุณตกลงตามข้อกำหนดและเงื่อนไขใน EULA นี้ หากคุณไม่เห็นด้วย คุณไม่สามารถใช้เกมได้</p>
