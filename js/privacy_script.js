@@ -1,12 +1,12 @@
 const eulaText = {
     id: `
-    <h1>Kebijakan Privasi untuk Game "Game Console City"</h1>
+    <h1>Kebijakan Privasi untuk Game Gaming Cafe Tycoon: Downtown</h1>
     <p><strong>Diperbarui pada: 16 Oktober 2024</strong></p>
 
-    <p>Kami di <strong>Rajasa Digital</strong> menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengelola informasi yang terkait dengan penggunaan game "Game Console City". Kami ingin menegaskan bahwa game ini <strong>tidak mengumpulkan, menyimpan, atau memproses data pribadi</strong> dari pengguna.</p>
+    <p>Kami di <strong>Rajasa Digital</strong> menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengelola informasi yang terkait dengan penggunaan game Gaming Cafe Tycoon: Downtown. Kami ingin menegaskan bahwa game ini <strong>tidak mengumpulkan, menyimpan, atau memproses data pribadi</strong> dari pengguna.</p>
 
     <h2>1. Pengumpulan Data Pengguna</h2>
-    <p>Game "Game Console City" tidak memerlukan informasi pribadi apa pun dari pengguna untuk dimainkan. Kami tidak meminta pengguna untuk mendaftar, login, atau memberikan data identitas, seperti nama, alamat email, atau informasi lainnya.</p>
+    <p>Game Gaming Cafe Tycoon: Downtown tidak memerlukan informasi pribadi apa pun dari pengguna untuk dimainkan. Kami tidak meminta pengguna untuk mendaftar, login, atau memberikan data identitas, seperti nama, alamat email, atau informasi lainnya.</p>
 
     <h2>2. Data yang Tidak Kami Kumpulkan</h2>
     <ul>
@@ -16,13 +16,13 @@ const eulaText = {
     </ul>
 
     <h2>3. Iklan dan Pembelian Dalam Aplikasi</h2>
-    <p>Game "Game Console City" <strong>tidak menampilkan iklan</strong> dan <strong>tidak memiliki pembelian dalam aplikasi (In-App Purchases)</strong>. Pengalaman bermain Anda bebas dari gangguan iklan atau permintaan pembelian tambahan.</p>
+    <p>Game Gaming Cafe Tycoon: Downtown <strong>tidak menampilkan iklan</strong> dan <strong>tidak memiliki pembelian dalam aplikasi (In-App Purchases)</strong>. Pengalaman bermain Anda bebas dari gangguan iklan atau permintaan pembelian tambahan.</p>
 
     <h2>4. Data Penggunaan dan Statistik</h2>
     <p>Kami tidak mengumpulkan data penggunaan atau statistik permainan. Semua aktivitas dalam game berjalan secara lokal di perangkat Anda dan tidak ada informasi yang dikirim ke server eksternal.</p>
 
     <h2>5. Keamanan</h2>
-    <p>Karena kami tidak mengumpulkan atau menyimpan data pribadi apa pun, tidak ada risiko informasi Anda terungkap atau dicuri. Game "Game Console City" tidak terhubung ke server atau mengakses jaringan untuk mengirim atau menerima data pengguna.</p>
+    <p>Karena kami tidak mengumpulkan atau menyimpan data pribadi apa pun, tidak ada risiko informasi Anda terungkap atau dicuri. Game Gaming Cafe Tycoon: Downtown tidak terhubung ke server atau mengakses jaringan untuk mengirim atau menerima data pengguna.</p>
 
     <h2>6. Hak dan Privasi Anda</h2>
     <p>Anda memiliki privasi penuh saat menggunakan game ini. Tidak ada data pribadi yang dikumpulkan, digunakan, atau disimpan oleh kami, sehingga Anda tidak perlu khawatir tentang pelanggaran privasi atau keamanan informasi.</p>
@@ -36,18 +36,18 @@ const eulaText = {
     rajasadigital@gmail.com<br>
     Kecamatan Singosari, Kabupaten Malang, Jawa Timur, Indonesia</p>
 
-    <p>Dengan memainkan "Game Console City," Anda menyetujui Kebijakan Privasi ini. Jika Anda tidak setuju dengan kebijakan ini, mohon untuk tidak memainkan game ini.</p>
+    <p>Dengan memainkan Gaming Cafe Tycoon: Downtown Anda menyetujui Kebijakan Privasi ini. Jika Anda tidak setuju dengan kebijakan ini, mohon untuk tidak memainkan game ini.</p>
 
-    <p><strong>Terima kasih telah memainkan "Game Console City"!</strong></p>
+    <p><strong>Terima kasih telah memainkan Gaming Cafe Tycoon: Downtown!</strong></p>
     `,
     en: `
-    <h1>Privacy Policy for "Game Console City"</h1>
+    <h1>Privacy Policy for Gaming Cafe Tycoon: Downtown</h1>
     <p><strong>Last updated:  October 16, 2024</strong></p>
 
-    <p>At <strong>Rajasa Digital</strong>, we value your privacy and are committed to protecting the personal information of our users. This Privacy Policy explains how we handle information related to the use of the "Game Console City" game. We want to emphasize that this game <strong>does not collect, store, or process any personal data</strong> from users.</p>
+    <p>At <strong>Rajasa Digital</strong>, we value your privacy and are committed to protecting the personal information of our users. This Privacy Policy explains how we handle information related to the use of the Gaming Cafe Tycoon: Downtown game. We want to emphasize that this game <strong>does not collect, store, or process any personal data</strong> from users.</p>
 
     <h2>1. User Data Collection</h2>
-    <p>"Game Console City" does not require any personal information from users to be played. We do not ask users to register, log in, or provide any identifying information, such as names, email addresses, or other personal details.</p>
+    <p>Gaming Cafe Tycoon: Downtown does not require any personal information from users to be played. We do not ask users to register, log in, or provide any identifying information, such as names, email addresses, or other personal details.</p>
 
     <h2>2. Data We Do Not Collect</h2>
     <ul>
@@ -57,13 +57,13 @@ const eulaText = {
     </ul>
 
     <h2>3. Ads and In-App Purchases</h2>
-    <p>"Game Console City" <strong>does not display ads</strong> and <strong>does not offer in-app purchases</strong>. Your gameplay experience is free from ad interruptions or requests for additional purchases.</p>
+    <p>Gaming Cafe Tycoon: Downtown <strong>does not display ads</strong> and <strong>does not offer in-app purchases</strong>. Your gameplay experience is free from ad interruptions or requests for additional purchases.</p>
 
     <h2>4. Usage Data and Statistics</h2>
     <p>We do not collect usage data or gameplay statistics. All gameplay activity occurs locally on your device, and no information is sent to external servers.</p>
 
     <h2>5. Security</h2>
-    <p>Since we do not collect or store any personal data, there is no risk of your information being exposed or compromised. "Game Console City" does not connect to any servers or networks for the purpose of transmitting or receiving user data.</p>
+    <p>Since we do not collect or store any personal data, there is no risk of your information being exposed or compromised. Gaming Cafe Tycoon: Downtown does not connect to any servers or networks for the purpose of transmitting or receiving user data.</p>
 
     <h2>6. Your Rights and Privacy</h2>
     <p>You have full privacy while using this game. No personal data is collected, used, or stored by us, so you do not need to worry about privacy violations or information security.</p>
@@ -77,18 +77,18 @@ const eulaText = {
     rajasadigital@gmail.com<br>
     Malang Regency, East Java, Indonesia</p>
 
-    <p>By playing "Game Console City," you agree to this Privacy Policy. If you do not agree with this policy, please refrain from using the game.</p>
+    <p>By playing "Gaming Cafe Tycoon: Downtown," you agree to this Privacy Policy. If you do not agree with this policy, please refrain from using the game.</p>
 
-    <p><strong>Thank you for playing "Game Console City"!</strong></p>
+    <p><strong>Thank you for playing Gaming Cafe Tycoon: Downtown!</strong></p>
     `,
     th: `
-    <h1>นโยบายความเป็นส่วนตัวสำหรับเกม "Game Console City"</h1>
+    <h1>นโยบายความเป็นส่วนตัวสำหรับเกม Gaming Cafe Tycoon: Downtown</h1>
     <p><strong>อัปเดตล่าสุด: 16 ตุลาคม 2024</strong></p>
 
-    <p>เราที่ <strong>Rajasa Digital</strong> ให้ความสำคัญกับความเป็นส่วนตัวของคุณ และเรามุ่งมั่นที่จะปกป้องข้อมูลส่วนบุคคลของผู้ใช้ นโยบายความเป็นส่วนตัวนี้อธิบายวิธีที่เราจัดการข้อมูลที่เกี่ยวข้องกับการใช้เกม "Game Console City" เราขอเน้นย้ำว่าเกมนี้ <strong>ไม่มีการเก็บรวบรวม จัดเก็บ หรือประมวลผลข้อมูลส่วนบุคคล</strong> ของผู้ใช้</p>
+    <p>เราที่ <strong>Rajasa Digital</strong> ให้ความสำคัญกับความเป็นส่วนตัวของคุณ และเรามุ่งมั่นที่จะปกป้องข้อมูลส่วนบุคคลของผู้ใช้ นโยบายความเป็นส่วนตัวนี้อธิบายวิธีที่เราจัดการข้อมูลที่เกี่ยวข้องกับการใช้เกม Gaming Cafe Tycoon: Downtown เราขอเน้นย้ำว่าเกมนี้ <strong>ไม่มีการเก็บรวบรวม จัดเก็บ หรือประมวลผลข้อมูลส่วนบุคคล</strong> ของผู้ใช้</p>
 
     <h2>1. การเก็บรวบรวมข้อมูลผู้ใช้</h2>
-    <p>เกม "Game Console City" ไม่จำเป็นต้องใช้ข้อมูลส่วนบุคคลใด ๆ จากผู้ใช้ในการเล่น เราไม่ขอให้ผู้ใช้ลงทะเบียน เข้าสู่ระบบ หรือให้ข้อมูลส่วนบุคคล เช่น ชื่อ อีเมล หรือรายละเอียดอื่น ๆ</p>
+    <p>เกม Gaming Cafe Tycoon: Downtown ไม่จำเป็นต้องใช้ข้อมูลส่วนบุคคลใด ๆ จากผู้ใช้ในการเล่น เราไม่ขอให้ผู้ใช้ลงทะเบียน เข้าสู่ระบบ หรือให้ข้อมูลส่วนบุคคล เช่น ชื่อ อีเมล หรือรายละเอียดอื่น ๆ</p>
 
     <h2>2. ข้อมูลที่เราไม่เก็บรวบรวม</h2>
     <ul>
@@ -98,13 +98,13 @@ const eulaText = {
     </ul>
 
     <h2>3. โฆษณาและการซื้อภายในแอป</h2>
-    <p>เกม "Game Console City" <strong>ไม่มีการแสดงโฆษณา</strong> และ <strong>ไม่มีการซื้อภายในแอป (In-App Purchases)</strong> ประสบการณ์การเล่นของคุณปราศจากการขัดจังหวะจากโฆษณาหรือการขอให้ทำการซื้อเพิ่มเติม</p>
+    <p>เกม Gaming Cafe Tycoon: Downtown <strong>ไม่มีการแสดงโฆษณา</strong> และ <strong>ไม่มีการซื้อภายในแอป (In-App Purchases)</strong> ประสบการณ์การเล่นของคุณปราศจากการขัดจังหวะจากโฆษณาหรือการขอให้ทำการซื้อเพิ่มเติม</p>
 
     <h2>4. ข้อมูลการใช้งานและสถิติ</h2>
     <p>เราไม่เก็บรวบรวมข้อมูลการใช้งานหรือสถิติการเล่นเกม กิจกรรมทั้งหมดในเกมเกิดขึ้นในเครื่องของคุณ และไม่มีข้อมูลใดถูกส่งไปยังเซิร์ฟเวอร์ภายนอก</p>
 
     <h2>5. ความปลอดภัย</h2>
-    <p>เนื่องจากเราไม่ได้เก็บรวบรวมหรือจัดเก็บข้อมูลส่วนบุคคลใด ๆ ความเสี่ยงที่ข้อมูลของคุณจะถูกเปิดเผยหรือถูกขโมยจึงไม่มี เกม "Game Console City" ไม่มีการเชื่อมต่อกับเซิร์ฟเวอร์หรือเครือข่ายเพื่อส่งหรือรับข้อมูลผู้ใช้</p>
+    <p>เนื่องจากเราไม่ได้เก็บรวบรวมหรือจัดเก็บข้อมูลส่วนบุคคลใด ๆ ความเสี่ยงที่ข้อมูลของคุณจะถูกเปิดเผยหรือถูกขโมยจึงไม่มี เกม Gaming Cafe Tycoon: Downtown ไม่มีการเชื่อมต่อกับเซิร์ฟเวอร์หรือเครือข่ายเพื่อส่งหรือรับข้อมูลผู้ใช้</p>
 
     <h2>6. สิทธิ์และความเป็นส่วนตัวของคุณ</h2>
     <p>คุณมีสิทธิ์ในความเป็นส่วนตัวอย่างเต็มที่เมื่อใช้เกมนี้ ไม่มีข้อมูลส่วนบุคคลใด ๆ ที่ถูกเก็บรวบรวม ใช้ หรือจัดเก็บโดยเรา ดังนั้นคุณไม่ต้องกังวลเกี่ยวกับการละเมิดความเป็นส่วนตัวหรือความปลอดภัยของข้อมูล</p>
@@ -118,9 +118,9 @@ const eulaText = {
     Singosari District, Malang Regency, East Java, Indonesia<br>
     rajasadigital@gmail.com</p>
 
-    <p>เมื่อคุณเล่นเกม "Game Console City" ถือว่าคุณยอมรับนโยบายความเป็นส่วนตัวนี้ หากคุณไม่ยอมรับนโยบายนี้ กรุณางดใช้เกมนี้</p>
+    <p>เมื่อคุณเล่นเกม Gaming Cafe Tycoon: Downtown ถือว่าคุณยอมรับนโยบายความเป็นส่วนตัวนี้ หากคุณไม่ยอมรับนโยบายนี้ กรุณางดใช้เกมนี้</p>
 
-    <p><strong>ขอขอบคุณที่เล่นเกม "Game Console City"!</strong></p>
+    <p><strong>ขอขอบคุณที่เล่นเกม Gaming Cafe Tycoon: Downtown!</strong></p>
 
     `
 };
