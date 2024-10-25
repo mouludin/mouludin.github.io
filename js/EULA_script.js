@@ -3,7 +3,7 @@ const eulaText = {
             <h1>Perjanjian Lisensi Pengguna Akhir (EULA)</h1>
             <p>Efektif per tanggal: 15 Oktober 2024</p>
             <h2>1. Pemberian Lisensi</h2>
-            <p>Rajasa Digital memberikan lisensi terbatas, tidak eksklusif, dan tidak dapat dipindahtangankan kepada Anda untuk menggunakan game “Game Console City” (selanjutnya disebut “Game”) di perangkat Anda.</p>
+            <p>Rajasa Digital memberikan lisensi terbatas, tidak eksklusif, dan tidak dapat dipindahtangankan kepada Anda untuk menggunakan game Gaming Cafe Tycoon: Downtown (selanjutnya disebut “Game”) di perangkat Anda.</p>
         
             <h2>2. Hak Cipta</h2>
             <p>Game dan semua konten, termasuk tetapi tidak terbatas pada grafik, audio, dan kode sumber, dilindungi oleh undang-undang hak cipta. Anda tidak diperbolehkan untuk mendistribusikan, memodifikasi, atau membuat karya turunan tanpa izin tertulis dari Rajasa Digital.</p>
@@ -31,7 +31,7 @@ const eulaText = {
         <p>Effective Date: October 15, 2024</p>
 
         <h2>1. Grant of License</h2>
-        <p>Rajasa Digital grants you a limited, non-exclusive, non-transferable license to use the game "Game Console City" (hereinafter referred to as "Game") on your device.</p>
+        <p>Rajasa Digital grants you a limited, non-exclusive, non-transferable license to use the game Gaming Cafe Tycoon: Downtown (hereinafter referred to as "Game") on your device.</p>
 
         <h2>2. Copyright</h2>
         <p>The Game and all content, including but not limited to graphics, audio, and source code, are protected by copyright laws. You may not distribute, modify, or create derivative works without written permission from Rajasa Digital.</p>
@@ -59,7 +59,7 @@ const eulaText = {
     <p>มีผลตั้งแต่วันที่: 15 ตุลาคม 2024</p>
 
     <h2>1. การมอบใบอนุญาต</h2>
-    <p>Rajasa Digital มอบใบอนุญาตที่จำกัด ไม่สามารถโอน และไม่เป็นเอกสิทธิ์ให้คุณใช้เกม “Game Console City” (ต่อไปนี้เรียกว่า “เกม”) บนอุปกรณ์ของคุณ</p>
+    <p>Rajasa Digital มอบใบอนุญาตที่จำกัด ไม่สามารถโอน และไม่เป็นเอกสิทธิ์ให้คุณใช้เกม Gaming Cafe Tycoon: Downtown (ต่อไปนี้เรียกว่า “เกม”) บนอุปกรณ์ของคุณ</p>
 
     <h2>2. ลิขสิทธิ์</h2>
     <p>เกมและเนื้อหาทั้งหมด รวมถึงแต่ไม่จำกัดเพียง กราฟิก เสียง และรหัสต้นฉบับ ได้รับการคุ้มครองตามกฎหมายลิขสิทธิ์ คุณไม่สามารถแจกจ่าย แก้ไข หรือสร้างผลงานอนุพันธ์โดยไม่ได้รับอนุญาตเป็นลายลักษณ์อักษรจาก Rajasa Digital</p>
